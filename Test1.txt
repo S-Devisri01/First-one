@@ -1,1 +1,2 @@
 Successfully created a Test1.txt file.
+Test2.txt file was successfully deleted.
